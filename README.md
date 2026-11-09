@@ -25,5 +25,5 @@ Ingeniero en Informática con especialización en Calidad de Software (QA). He p
 
 ## Contacto
 
-- **LinkedIn:** [linkedin.com/in/rodrigo-vargas-leon](https://www.linkedin.com/in/rodrigo-vargas-leon/)
+- **LinkedIn:** [linkedin.com/in/rodrigo-vargas-leon](https://www.linkedin.com/in/rodrigo-vargas-leon)
 - **Correo:** ro.vargas.leon@gmail.com
