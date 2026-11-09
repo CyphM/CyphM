@@ -19,8 +19,11 @@ Ingeniero en Informática con especialización en Calidad de Software (QA). He p
 
 ## Estoy aprendiendo
 
-Automatización de pruebas, HL7/FHIR, y todo lo que me permita crecer como ingeniero.
+- **Automatización de pruebas:** pasar de ejecutar casos de prueba a mano a automatizarlos con Python y PyTest.
+- **HL7 / FHIR:** los estándares con los que los sistemas de salud intercambian datos clínicos, para entender mejor cómo se conectan los sistemas por dentro.
+- **Todo lo que me enseñe a crecer como ingeniero:** me interesan los roles de informática donde pueda aprender y usar un poco de todo.
 
 ## Contacto
 
-ro.vargas.leon@gmail.com
+- **LinkedIn:** [linkedin.com/in/rodrigo-vargas-leon](https://www.linkedin.com/in/rodrigo-vargas-leon/)
+- **Correo:** ro.vargas.leon@gmail.com
