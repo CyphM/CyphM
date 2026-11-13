@@ -15,7 +15,8 @@ Ingeniero en Informática con especialización en Calidad de Software (QA). He p
 ## Proyectos
 
 - **CultivIA** — aplicación conversacional que permite consultar datos empresariales en lenguaje natural: comprensión de la consulta, generación y validación de SQL, ejecución en AWS Athena y respuesta en español. Python/FastAPI, React, llama.cpp. *(Proyecto de título; descripción general.)*
-- **Portafolio QA** — plan de pruebas, casos de prueba y reporte de hallazgos sobre un sistema de salud de código abierto, con datos ficticios. *(En construcción.)*
+- **asistente-local** — asistente personal de IA que corre 100 % en local (Python + Ollama), para aprender cómo funcionan los modelos de lenguaje locales. En construcción: incluye memoria en SQLite, CI, pruebas y un cuestionario para comparar modelos. [Repositorio](https://github.com/CyphM/asistente-local)
+- **Portafolio QA** — plan de pruebas, casos de prueba y reporte de hallazgos sobre un sistema de salud de código abierto, con datos ficticios. *(En construcción.)* [Repositorio](https://github.com/CyphM/qa-health-it-portfolio)
 
 ## Estoy aprendiendo
 
